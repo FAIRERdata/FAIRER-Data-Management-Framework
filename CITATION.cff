@@ -1,0 +1,15 @@
+cff-version: 1.2
+message: "If you use this diagram, please cite it as below."
+authors:
+- family-names: "Charles"
+  given-names: "Dominique"
+  orcid: "https://orcid.org/0000-0002-7349-6970"
+- family-names: "Austin"
+  given-names: "Claire C."
+  orcid: "https://orcid.org/0000-0001-9138-5986"
+title: "FAIRER Data Management Framework: Diagram"
+version: 1.2
+doi: 10.5281/zenodo.13287526
+date-released: 2024-08-12
+url: "https://github.com/FAIRERdata/FAIRER-Data-Management-Framework/"
+  
