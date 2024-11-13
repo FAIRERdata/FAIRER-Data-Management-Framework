@@ -8,7 +8,7 @@ authors:
   given-names: "Claire C."
   orcid: "https://orcid.org/0000-0001-9138-5986"
 title: "FAIRER Data Management Framework: Diagram"
-version: 1.2
+version: 1.1
 doi: 10.5281/zenodo.13287526
 date-released: 2024-08-12
 url: "https://github.com/FAIRERdata/FAIRER-Data-Management-Framework/"
